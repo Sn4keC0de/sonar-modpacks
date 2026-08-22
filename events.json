@@ -7,7 +7,7 @@
       "loader": "forge",
       "forgeVersion": "47.4.0",
       "modpackUrl": "https://pub-b5919744b50d47088da1e396ae99e2d0.r2.dev/infection.zip",
-      "whitelist": ["AtlasFrosth"]
+      "whitelist": ["AtlasFrosth","KawXu"]
     }
   ]
 }
