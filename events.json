@@ -1,0 +1,13 @@
+{
+  "events": [
+    {
+      "id": "infection",
+      "name": "Infection",
+      "version": "1.20.1",
+      "loader": "forge",
+      "forgeVersion": "47.4.0",
+      "modpackUrl": "PEGAR_AQUI_LA_URL_DE_R2",
+      "whitelist": ["AtlasFrosth", "OtroJugador"]
+    }
+  ]
+}
