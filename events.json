@@ -19,6 +19,16 @@
       "modpackVersion": "1.0.0",
       "modpackUrl": "https://pub-b5919744b50d47088da1e396ae99e2d0.r2.dev/suwie.zip",
       "whitelist": ["AtlasFrosth","Gonzaaje","NotSuwie","eseLala","KitsuMC","Hakutsuki"]
+    },
+    {
+      "id": "steamsmp",
+      "name": "Steam SMP",
+      "version": "1.20.1",
+      "loader": "neoforge",
+      "forgeVersion": "21.1.251",
+      "modpackVersion": "1.0.0",
+      "modpackUrl": "",
+      "whitelist": []
     }
   ]
 }
