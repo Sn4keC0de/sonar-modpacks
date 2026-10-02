@@ -35,8 +35,8 @@
       ]
     },
     {
-      "id": "steamsmp",
-      "name": "Steam SMP",
+      "id": "tukismp",
+      "name": "Tuki SMP",
       "version": "1.20.1",
       "loader": "neoforge",
       "forgeVersion": "21.1.251",
